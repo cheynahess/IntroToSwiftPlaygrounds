@@ -16,3 +16,8 @@ var numberOne = 5
 var numberTwo = 7
 var comparison = numberOne > numberTwo
 
+var numberThree = 8
+var numberFour = 10
+var equalTo = numberThree == numberFour
+print (equalTo)
+
